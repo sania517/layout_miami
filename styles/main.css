@@ -249,7 +249,7 @@ h2 {
 .paragraf {
   position: absolute;
   left: 50%;
-  top: -24px;
+  top: 25px;
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0); }
   .paragraf__name {
