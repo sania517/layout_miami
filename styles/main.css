@@ -580,7 +580,7 @@ textarea {
             align-items: center;
     height: 220px; } }
 
-body {
+* {
   scroll-behavior: smooth; }
 
 section > div {
